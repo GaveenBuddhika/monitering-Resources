@@ -1,0 +1,15 @@
+#!/bin/bash
+
+
+
+# create a folder
+
+mkdir gaveen
+
+ 
+#create a file
+cd gaveen
+touch firstfile secondfile 
+
+
+
