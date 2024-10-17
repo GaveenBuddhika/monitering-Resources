@@ -55,3 +55,7 @@ Mem:             16           8           6           0           2           6
 + ps -ef | grep amazon | awk -F " " '{print $2}'
 12345
 67890
+
+##License
+
+- Feel free to adjust the repository URL, author details, or other sections based on your preferences!
